@@ -1,0 +1,32 @@
+Introdução
+--------------------------------------------------------------------------------------
+MongoDB é um bando de dados não relacional. Os dados são armazenados em um documento.
+
+Document DataBase
+--------------------------------------------------------------------------------------
+A estrutura de dados é composta por um par de chave e valor, semelhante a um JSON
+
+{
+	nome: "talison",
+	idade: 24,
+	status: "A",
+	groups: ["news", "sports"]
+}
+
+> Entrada
+{
+	tipo: "dizimo",
+	descricao: "talison fernandes costa",
+	data: 10/11/2017,
+	valor: 25,6
+}
+
+
+> Saida
+{
+	tipo: "combustivel",
+	descricao: "gasto com viajem para uirauna",
+	data: 10/11/2017,
+	valor: 100
+}
+

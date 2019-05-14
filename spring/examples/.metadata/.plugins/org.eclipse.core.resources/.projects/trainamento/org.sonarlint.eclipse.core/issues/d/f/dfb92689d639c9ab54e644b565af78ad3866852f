@@ -1,0 +1,24 @@
+
+|squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç8‰¯Ùˆ-HÀ!RMINORZ
+CODE_SMELL
+–squid:UselessImportCheck"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ8¥ÏÇØˆ-HÁ!RMINORZ
+CODE_SMELL
+zsquid:S4684""@Replace this persistent entity with a simple POJO or DTO object.(²·ÂÛ8Âˆ¸Ùˆ-H¼!RCRITICALZVULNERABILITY
+zsquid:S4684,"@Replace this persistent entity with a simple POJO or DTO object.(É¾ò¬8Âˆ¸Ùˆ-HÇ!RCRITICALZVULNERABILITY
+~squid:UselessImportCheck"8Remove this unused import 'repository.PessoaRepository'.(üÙâ¯ÿÿÿÿÿ8¨—ò×ˆ-HÂ!RMINORZ
+CODE_SMELL
+squid:UselessImportCheck"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø8Ø„‹Øˆ-HÄ!RMINORZ
+CODE_SMELL
+ƒsquid:S4488!"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ßƒµ¢şÿÿÿÿ8‰¯Ùˆ-HÅ!RMINORZ
+CODE_SMELL
+|squid:S4488+"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(›¼¹8Âˆ¸Ùˆ-H½!RMINORZ
+CODE_SMELL
+ysquid:S4684'"@Replace this persistent entity with a simple POJO or DTO object.(€Ç²'8Âˆ¸Ùˆ-H¿!RCRITICALZVULNERABILITY
+™squid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ÊµĞØˆ-HÃ!RMINORZ
+CODE_SMELL
+‡squid:S4488&"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(àÌêûùÿÿÿÿ8Âˆ¸Ùˆ-H¾!RMINORZ
+CODE_SMELL
+ssquid:UselessImportCheck"2Remove this unused import 'repository.Repository'.(„“ˆª8¨—ò×ˆ-HÆ!RMINORZ
+CODE_SMELL
+isquid:UselessImportCheck")Remove this unused import 'model.Pessoa'.(©¯Ç8˜Á¬×ˆ-HÈ!RMINORZ
+CODE_SMELL

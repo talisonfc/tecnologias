@@ -1,0 +1,31 @@
+{
+  "name": "estoque",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "produto": {
+      "type": "object",
+      "required": true
+    },
+    "quantidade": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {
+    "itens": {
+      "type": "hasMany",
+      "model": "produto",
+      "foreignKey": "",
+      "options": {
+        "nestRemoting": true
+      }
+    }
+  },
+  "acls": [],
+  "methods": {}
+}

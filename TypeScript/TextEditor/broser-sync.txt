@@ -1,0 +1,3 @@
+- Para usar o browser-sync basca chamar via linha de comando
+
+>> browser-sync start --server --files "arquivo1.extencao" "arquivo2.extencao" "..."

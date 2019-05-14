@@ -1,0 +1,10 @@
+
+’squid:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ïêÐùÿÿÿÿ8×­¹ã‘-H×+RMINORZ
+CODE_SMELL
+~squid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÂÉò‘8­¹­ã‘-HØ+RBLOCKERZBUG
+vsquid:S20950"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢þž­8þ•¿ã‘-HÙ+RBLOCKERZBUG
+vsquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢þž­8×­¹ã‘-HÚ+RBLOCKERZBUG
+Qsquid:S2695%"ResultSet indices start at 1.(©«äØþÿÿÿÿ8×­¹ã‘-HÛ+RBLOCKERZBUG
+{squid:S2095 "GUse try-with-resources or close this "ResultSet" in a "finally" clause.(þÃ³›ûÿÿÿÿ8×­¹ã‘-HÜ+RBLOCKERZBUG
+{squid:S20951"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(þÃ³›ûÿÿÿÿ8þ•¿ã‘-HÝ+RBLOCKERZBUG
+‘squid:S2077 "RUse a variable binding mechanism to construct this query instead of concatenation.(þÃ³›ûÿÿÿÿ8þ•¿ã‘-HÞ+RCRITICALZVULNERABILITY

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="modelPessoa" class="model.Pessoa"></bean>
+    <bean id="modelCliente" class="model.Cliente" depends-on="modelDono" scope="prototype"></bean>
+    <bean id="modelVendedor" class="model.Vendedor"></bean>
+    <bean id="modelDono" class="model.Dono"></bean>
+    <bean id="modelProduto" class="model.Produto"></bean>
+    <bean id="modelVenda" class="model.Venda"></bean>
+    <bean id="modelItemVenda" class="model.ItemVenda"></bean>
+    <bean id="modelEstoque" class="model.Estoque"></bean>
+    <bean id="modelEndereco" class="model.Endereco" lazy-init="true">
+    	<constructor-arg index="0" value="10"/>
+    	<constructor-arg index="1" value="Brasil"/>
+    	<constructor-arg index="2" value="Rio Grande do Norte"/>
+    	<constructor-arg index="3" value="Natal"/>
+    	<constructor-arg index="4" value="Neopoles"/>
+    	<constructor-arg index="5" value="Rua Raimundo de Medeiros Dantas"/>
+    	<constructor-arg index="6" value="344"/>
+    	<constructor-arg index="7" value="APTO 105"/>
+    	<constructor-arg index="8" value="59080-400"/>
+    </bean>
+
+</beans>

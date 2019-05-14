@@ -1,0 +1,18 @@
+
+Introdução a node.js
+-----------------------------------------------------------------------------
+NodeJS é um runtime javascript construido a partir do V*. É usado para programação
+dirijida a evento, I/O não bloqueante, leve e eficiente.
+
+Anatomia de uma transação HTTP
+-----------------------------------------------------------------------------
+- Criar um servidor
+- Method, URL e Headers
+- Request Body
+- Configurando cabecalho de resposta
+- Enviando resposta
+
+
+Overview of Blocking vs Non-Blocking
+-----------------------------------------------------------------------------
+(Visão geral do bloqueio VS não bloqueio)

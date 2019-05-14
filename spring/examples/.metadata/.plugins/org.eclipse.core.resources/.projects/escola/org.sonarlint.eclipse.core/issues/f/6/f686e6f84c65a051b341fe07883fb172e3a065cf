@@ -1,0 +1,14 @@
+
+{squid:UselessImportCheck":Remove this unused import 'javax.persistence.CascadeType'.( ì¤Ê8ñÀÔ•‡-HÓRMINORZ
+CODE_SMELL
+dsquid:S1068"0Remove this unused "qtnMaxAlunos" private field.(»Ö‚8ÏğÌ•‡-H×RMAJORZ
+CODE_SMELL
+qsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ñÀÔ•‡-HÔRMINORZ
+CODE_SMELL
+xsquid:UselessImportCheck
+"8Remove this unused import 'javax.persistence.OneToMany'.(«õù;8ñÀÔ•‡-HØRMINORZ
+CODE_SMELL
+¸squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Úáú¯8˜Í²•‡-HÙRCRITICALZ
+CODE_SMELL
+dsquid:S1068"+Remove this unused "detalhe" private field.(«Œ³åşÿÿÿÿ8ÏğÌ•‡-HÕRMAJORZ
+CODE_SMELL

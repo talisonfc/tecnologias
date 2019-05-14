@@ -1,0 +1,10 @@
+
+msquid:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(õ’HàRBLOCKERZBUG
+msquid:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(õ’HßRBLOCKERZBUG
+jsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒHáRMINORZ
+CODE_SMELL
+‘squid:S2077("RUse a variable binding mechanism to construct this query instead of concatenation.(²ÚÃ üÿÿÿÿ8ôš×ˆ-HãRCRITICALZVULNERABILITY
+msquid:S2095&"EUse try-with-resources or close this "Session" in a "finally" clause.(õ’HÈRBLOCKERZBUG
+usquid:UselessImportCheck"4Remove this unused import 'javax.persistence.Query'.(¢ğö8ÑéÚÖˆ-HÉRMINORZ
+CODE_SMELL
+tsquid:S2095/"EUse try-with-resources or close this "Session" in a "finally" clause.(õ’8°Ñ™Ùˆ-H· RBLOCKERZBUG

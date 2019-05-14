@@ -1,0 +1,5 @@
+
+Uso: ./if-input.sh [-h]
+
+    -h  Mostra esta tela de ajuda e sai
+

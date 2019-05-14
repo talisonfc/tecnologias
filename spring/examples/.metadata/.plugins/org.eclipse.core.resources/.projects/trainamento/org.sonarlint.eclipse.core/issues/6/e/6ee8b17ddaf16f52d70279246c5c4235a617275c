@@ -1,0 +1,12 @@
+
+‡squid:S4488""NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(àÌêûùÿÿÿÿ8š›¯Ùˆ-Hµ!RMINORZ
+CODE_SMELL
+|squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç8š›¯Ùˆ-H¸!RMINORZ
+CODE_SMELL
+squid:S4684"@Replace this persistent entity with a simple POJO or DTO object.( á·ğøÿÿÿÿ8š›¯Ùˆ-H¹!RCRITICALZVULNERABILITY
+zsquid:S4684("@Replace this persistent entity with a simple POJO or DTO object.(›œ¹8š›¯Ùˆ-H»!RCRITICALZVULNERABILITY
+squid:S4684#"@Replace this persistent entity with a simple POJO or DTO object.(¨“Úêúÿÿÿÿ8š›¯Ùˆ-H¶!RCRITICALZVULNERABILITY
+squid:S4488'"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ñ…æışÿÿÿÿ8š›¯Ùˆ-H·!RMINORZ
+CODE_SMELL
+~squid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(†¨©İ8š›¯Ùˆ-Hº!RMINORZ
+CODE_SMELL

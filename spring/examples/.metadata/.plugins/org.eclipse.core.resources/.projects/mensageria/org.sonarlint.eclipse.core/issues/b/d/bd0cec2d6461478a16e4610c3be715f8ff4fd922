@@ -1,0 +1,12 @@
+
+bsquid:S1452"&Remove usage of generic wildcard type.(ÊÂ—ýÿÿÿÿ8å‰ˆá˜-H>RCRITICALZ
+CODE_SMELL
+l
+squid:S1064"9Replace this use of System.out or System.err by a logger.(Çãâþ8ÖÛÞä˜-H‚>RMAJORZ
+CODE_SMELL
+squid:UselessImportCheck"\Remove this unused import 'org.springframework.messaging.simp.config.MessageBrokerRegistry'.(ˆøí¡8™ñÔê˜-H¥>RMINORZ
+CODE_SMELL
+¤squid:UselessImportCheck"cRemove this unused import 'org.springframework.web.socket.config.annotation.StompEndpointRegistry'.(ÛÃË´8™ñÔê˜-H¦>RMINORZ
+CODE_SMELL
+°squid:UselessImportCheck"jRemove this unused import 'org.springframework.web.socket.config.annotation.EnableWebSocketMessageBroker'.(ßðçåüÿÿÿÿ8™ñÔê˜-H§>RMINORZ
+CODE_SMELL

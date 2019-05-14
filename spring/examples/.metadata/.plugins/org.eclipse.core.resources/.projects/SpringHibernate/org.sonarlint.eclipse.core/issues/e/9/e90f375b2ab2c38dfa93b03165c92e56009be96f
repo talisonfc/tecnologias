@@ -1,0 +1,30 @@
+
+jsquid:S1135D"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8‚–Î“’-H‘8RINFOZ
+CODE_SMELL
+msquid:S2789"@Methods with an "Optional" return type should never return null.(¥¹ï8‚–Î“’-H’8RMAJORZBUG
+jsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8‚–Î“’-H“8RINFOZ
+CODE_SMELL
+’squid:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓñÂ¾ùÿÿÿÿ8ĞÕƒ“-H”8RMINORZ
+CODE_SMELL
+jsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8‚–Î“’-H•8RINFOZ
+CODE_SMELL
+jsquid:S11352"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8‚–Î“’-H–8RINFOZ
+CODE_SMELL
+jsquid:S1135>"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8‚–Î“’-H—8RINFOZ
+CODE_SMELL
+‹squid:S1192*"ODefine a constant instead of duplicating this literal "232.232.534-90" 3 times.(ê‚ÒÑøÿÿÿÿ8ĞÕƒ“-H˜8RCRITICALZ
+CODE_SMELL
+Œsquid:UselessImportCheck	"FRemove this unused import 'org.springframework.stereotype.Repository'.(¦ıÍıüÿÿÿÿ8ó¬“-H™8RMINORZ
+CODE_SMELL
+jsquid:S1135P"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8‚–Î“’-Hš8RINFOZ
+CODE_SMELL
+jsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8‚–Î“’-H›8RINFOZ
+CODE_SMELL
+jsquid:S1135#"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8‚–Î“’-Hœ8RINFOZ
+CODE_SMELL
+jsquid:S11358"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8‚–Î“’-H8RINFOZ
+CODE_SMELL
+jsquid:S1135J"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8‚–Î“’-H8RINFOZ
+CODE_SMELL
+‹squid:UselessImportCheck"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8ó¬“-HŸ8RMINORZ
+CODE_SMELL

@@ -1,0 +1,52 @@
+<html>
+  <head>
+    <title>Vue Instance</title>
+    <script src="https://unpkg.com/@ionic/core@latest/dist/ionic.js"></script>
+    <link
+      href="https://unpkg.com/@ionic/core@latest/css/ionic.bundle.css"
+      rel="stylesheet"
+    />
+    <style>
+      .card-login {
+        width: 500px;
+        margin-left: calc(50% - 250px);
+        margin-top: 15vh;
+        box-shadow: 0 0;
+      }
+
+      .card-login img {
+        width: 50%;
+        margin-left: 25%;
+      }
+    </style>
+  </head>
+  <body>
+    <ion-app>
+      <ion-content padding>
+        <ion-card padding class="card-login">
+          <ion-head>
+            <div class="text-center"><img src="./imgs/logo.png" alt="" /></div>
+          </ion-head>
+          <ion-body>
+            <div id="login">
+              <ion-list>
+                <ion-item>
+                  <ion-label position="floating">Login</ion-label>
+                  <ion-input></ion-input>
+                </ion-item>
+                <ion-item>
+                  <ion-label position="floating">Senha</ion-label>
+                  <ion-input type="password"></ion-input>
+                </ion-item>
+              </ion-list>
+              <ion-button expand="block">Entrar</ion-button>
+            </div>
+          </ion-body>
+        </ion-card>
+      </ion-content>
+    </ion-app>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="./main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,30 @@
+<!-- 
+The getElementsByTagName() return an HTMLCollection object.
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>COLEÇÃO</title>
+</head>
+<body>
+	<p>Paragrafo 1</p>
+	<p>Paragrafo 2</p>
+	<p>Paragrafo 3</p>
+	<p>Paragrafo 4</p>
+	<p>Paragrafo 5</p>
+	<p>Paragrafo 6</p>
+
+	<script type="text/javascript">
+		var x = document.getElementsByTagName('p');
+		for(var i = 0; i<x.length; i++){
+			console.log(x[i].innerHTML);
+		}
+		/*
+		HTMLCollection não é um ARRAY
+		ARRAY disões dos metodos valueOf(), pop(), push() e join(), enquanto o HTML collection não.
+		*/
+	</script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+
+Šsquid:UselessImportCheck"DRemove this unused import 'org.springframework.data.domain.Example'.(³˜œÍüÿÿÿÿ8Ø³§êš-HÚDRMINORZ
+CODE_SMELL
+squid:UselessImportCheck"LRemove this unused import 'org.springframework.data.repository.query.Param'.(©”šô8‹±¡êš-HÛDRMINORZ
+CODE_SMELL
+Ysquid:S1602'",Remove useless curly braces around statement(Àòœ¸HÙDRMINORZ
+CODE_SMELL

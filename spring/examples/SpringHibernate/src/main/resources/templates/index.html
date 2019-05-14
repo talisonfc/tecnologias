@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title>Spring+Hibernate</title>
+</head>
+<body>
+	<div data-th-text="${nome}">Spring + Hibernate</div>
+	<div>
+		<form action="index.html" method="post" th:attr="action=@{/subscribe}">
+			<fieldset>
+				<input name="email" th:attr="value=${inscricao.email}" /> <input
+					type="submit" value="Subscribe" />
+			</fieldset>
+		</form>
+	</div>
+
+	<div>
+		<table>
+			<tr data-th-each="pessoa : ${pessoas}">
+				<td data-th-text="${pessoa.id}">id</td>
+				<td data-th-text="${pessoa.nome}">nome</td>
+				<td data-th-text="${pessoa.cpf}">cpf</td>
+			</tr>
+		</table>
+	</div>
+	
+	<div>
+		<ul>
+			<li th:each="item : ${menu}">
+				<p th:text="${item.nome}"/>
+				<ul th:each="subitem : ${item.submenu}">
+					<li th:text="${subitem.nome}"></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</body>
+</html>

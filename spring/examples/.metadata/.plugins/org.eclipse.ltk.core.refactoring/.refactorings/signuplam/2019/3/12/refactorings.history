@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;signuplam/criar&apos; to &apos;criar.sh&apos;" description="Rename resource &apos;criar&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="criar" name="criar.sh" stamp="1552936786400" updateReferences="true"/>
+</session>

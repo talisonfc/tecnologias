@@ -1,0 +1,9 @@
+
+—squid:UselessImportCheck"QRemove this unused import 'org.springframework.data.repository.core.CrudMethods'.(í—šºþÿÿÿÿ8ÙÍÁ“’-Hå5RMINORZ
+CODE_SMELL
+jsquid:S1135-"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8éÝœ”’-Hæ5RINFOZ
+CODE_SMELL
+jsquid:S1135'"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8´ÂÝ“’-Hç5RINFOZ
+CODE_SMELL
+’squid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(ð¢´ßøÿÿÿÿ8º¡ú“’-Hè5RMINORZ
+CODE_SMELL

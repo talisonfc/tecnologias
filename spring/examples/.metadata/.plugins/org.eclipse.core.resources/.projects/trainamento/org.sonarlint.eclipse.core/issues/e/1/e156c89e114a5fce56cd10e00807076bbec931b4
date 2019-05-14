@@ -1,0 +1,8 @@
+
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(›ýÞ¸HšRMAJORZ
+CODE_SMELL
+dsquid:UselessImportCheck"*Remove this unused import 'java.sql.Date'.(ÙÀ½ÊHœRMINORZ
+CODE_SMELL
+“squid:S1488"fImmediately return this expression instead of assigning it to the temporary variable "sessionFactory".(Õ„³ëH›RMINORZ
+CODE_SMELL

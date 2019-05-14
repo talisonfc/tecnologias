@@ -1,0 +1,7 @@
+
+{squid:UselessImportCheck":Remove this unused import 'javax.persistence.CascadeType'.( ì¤Ê8Ÿı¤Øˆ-H²!RMINORZ
+CODE_SMELL
+…squid:UselessImportCheck"?Remove this unused import 'javax.persistence.MappedSuperclass'.(íÃ„üÿÿÿÿ8ÓÂÅÕˆ-H³!RMINORZ
+CODE_SMELL
+xsquid:UselessImportCheck"8Remove this unused import 'javax.persistence.OneToMany'.(«õù;8Ÿı¤Øˆ-H´!RMINORZ
+CODE_SMELL

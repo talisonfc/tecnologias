@@ -1,0 +1,20 @@
+
+isquid:UselessImportCheck")Remove this unused import 'model.Pessoa'.(©¯Ç8¹ŞÍŠ‚-H‰)RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8º–Ç‰‚-HŠ)RMAJORZ
+CODE_SMELL
+{squid:S00101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡H‹)RMINORZ
+CODE_SMELL
+ysquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘HŒ)RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ8úü…™‚-H)RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8ßÚƒ™‚-H)RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Ì‚‚-H)RMAJORZ
+CODE_SMELL

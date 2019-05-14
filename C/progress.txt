@@ -1,0 +1,9 @@
+- GNU Compile Collection (GCC) - compilador que suporta diversas linguagens incluindo 
+C/C++, Objective-C e Java
+- GNU Make - uma ferramenta de automação para compilar e criar aplicações
+- GNU Binutils - um conjunto de ferramentas binárias incluindo um lincador e um assembler
+- GNU debugger (GDB)
+- GNU Autotools
+- GNU Bison
+
+

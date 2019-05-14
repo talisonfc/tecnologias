@@ -1,0 +1,9 @@
+
+¼%squid:RedundantThrowsDeclarationCheck/"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(½Õ¨’8ÉýÝþ‘-H…BRMINORZ
+CODE_SMELL
+Á%squid:RedundantThrowsDeclarationCheck"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(’ÊÒóýÿÿÿÿ8´›òè‘-H†BRMINORZ
+CODE_SMELL
+lsquid:S3878"8Remove this array creation and simply pass the elements.(’Žâ©8ÉýÝþ‘-H‡BRMINORZ
+CODE_SMELL
+Á%squid:RedundantThrowsDeclarationCheck5"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(óÂ¡¦üÿÿÿÿ8Œê£è‘-HˆBRMINORZ
+CODE_SMELL

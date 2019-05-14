@@ -1,0 +1,25 @@
+
+†squid:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(â ÉçHğARMINORZ
+CODE_SMELL
+†squid:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ø‹®»HñARMINORZ
+CODE_SMELL
+wsquid:S1206«"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑãHòARMINORZBUG
+Œsquid:S4144º"^Update this method so that its implementation is not identical to "getPermissoes" on line 215.(×’æ´HóARMAJORZ
+CODE_SMELL
+squid:S2637/"d"senha" is marked "javax.validation.constraints.NotNull" but is not initialized in this constructor.(³ü»úÿÿÿÿHôARMINORZBUG
+tsquid:S1126³"AReplace this if-then-else statement by a single return statement.(ö“î¼ûÿÿÿÿHõARMINORZ
+CODE_SMELL
+dsquid:S1135»"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHöARINFOZ
+CODE_SMELL
+dsquid:S1135Â"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH÷ARINFOZ
+CODE_SMELL
+dsquid:S1135È"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHøARINFOZ
+CODE_SMELL
+dsquid:S1135Ï"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHùARINFOZ
+CODE_SMELL
+dsquid:S1135Ü"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHúARINFOZ
+CODE_SMELL
+dsquid:S1135ã"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHûARINFOZ
+CODE_SMELL
+hsquid:S1161«":Add the "@Override" annotation above this method signature(ÜÑãHüARMAJORZ
+CODE_SMELL

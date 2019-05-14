@@ -1,0 +1,15 @@
+{
+  "name": "quentinha",
+  "version": "1.0.0",
+  "description": "aplicativo da quentinha",
+  "main": "index.js",
+  "scripts": {
+    "test": "any"
+  },
+  "repository": {
+    "type": "git",
+    "url": "any"
+  },
+  "author": "talison",
+  "license": "ISC"
+}

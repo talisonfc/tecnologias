@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>BOM</title>
+</head>
+<body>
+<!-- 
+Existe um padrao oficial para Browser Object Model (BOM)
+Para acessar as propriedados do broser usamos o objeto window
+
+-->
+	<div id="lenWindow"></div>
+
+	<script type="text/javascript">
+		var screenDim = document.getElementById('lenWindow');
+		screenDim.innerHTML = "<p>"+screen.height+" - "+window.innerWidth+"</p>";		
+		
+		//window.open();
+		//window.close();
+	</script>
+
+</body>
+</html>

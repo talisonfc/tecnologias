@@ -1,0 +1,65 @@
+<!-- 
+De acordo com o padrão w3c, tudo em um documento HTML é um nó.
+Portanto, todos os nos podem ser acessados e novos nos podem ser
+criados.
+
+Os nós tem uma hierarquia entre eles. Os termos parent, child and sibling (irmão)
+
+Todo nó tem exatamente um pai, except the root (or root node)
+Every node has exactly one parent, except the root (or root node)
+Siblings (brother or sisters) are nodes with the same parent.
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>DOM navagations</title>
+</head>
+<body>
+
+	<p id="text">Texto do paragrafo</p>
+
+	<script type="text/javascript">
+		console.log(document)
+		console.log(document.children)
+		console.log(document.children.length)
+		console.log(document.children[0].children)
+
+		for(var i = 0 ; i<document.children[0].children.length; i++){
+			var element = document.children[0].children;
+			console.log(element[i]);
+			if(element[0].parentNode == element[1].parentNode)
+				console.log('Some Dead');
+		}
+
+		/*
+		A propriedade innerHTML serve tanto para adicionar um texto num elemento, quando para obter o texto de um elemento.
+
+		O conteudo de um elemento não está dentro do nó que representa o
+		elemento, está em algum dos nós filhos do element.
+		*/
+		console.log(document.children[0].children[0].children[1].innerHTML)
+		console.log(document.getElementById('text').childNodes[0].nodeValue)
+		console.log(document.getElementById('text').firstChild.nodeValue)
+		console.log(document.body)
+		console.log(document.body.innerHTML)
+		console.log(document.documentElement)
+		console.log(document.documentElement.innerHTML)
+
+		/*
+		A propriedade nodeName, especifica o nome do node
+		*/
+		console.log(document.nodeName)
+		console.log(document.documentElement.nodeName)
+		console.log(document.documentElement.nodeName)
+		console.log(document.body.children[0].nodeName)
+	</script>
+</body>
+</html>
+
+<!--
+In this tutorial we use the innerHTML property to retrieve the content of an HTML element.
+
+However, learning the other methods above is useful for understand the tree striucture and the navegation of the DOM.
+-->

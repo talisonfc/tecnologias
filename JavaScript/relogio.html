@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>RELOGIO</title>
+
+	<style type="text/css">
+		.time{
+			font-size: 2em;
+			display: inline;
+		}
+	</style>
+
+</head>
+<body>
+	<div class="time" id="hora"></div>
+	<div class="time" id="minuto"></div>
+	<div class="time" id="segundo"></div>
+	<div class="time" id="milisegundo"></div>
+
+	<script type="text/javascript">
+		var id = setInterval(time, 0);
+		var h = 0, m = 0, s = 0, ms = 0;
+
+		function time(){
+			ms += 100;
+			document.getElementById('hora').innerHTML = h;
+			document.getElementById('minuto').innerHTML = m;
+			document.getElementById('segundo').innerHTML = s;
+			document.getElementById('milisegundo').innerHTML = ms;
+
+			if(ms == 1000)
+				s++, ms = 0;
+			if(s == 60)
+				m++, s = 0;
+			if(m == 60)
+				h++, m = 0;
+			if(h == 24)
+				h = 0;
+		}
+	</script>
+</body>
+</html>

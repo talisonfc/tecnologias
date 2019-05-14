@@ -1,0 +1,11 @@
+
+šsquid:UselessImportCheck"YRemove this unused import 'org.springframework.boot.autoconfigure.SpringBootApplication'.(Ë”ÖÏ8˜×á¯’-H¨6RMINORZ
+CODE_SMELL
+squid:UselessImportCheck"GRemove this unused import 'org.springframework.boot.SpringApplication'.(¯ìÙÿÿÿÿÿ8˜×á¯’-H©6RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚İ’§ÿÿÿÿÿ8Ÿ€ø¯’-Hª6RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊìÍûÿÿÿÿ8ÌĞğ¯’-H«6RMAJORZ
+CODE_SMELL

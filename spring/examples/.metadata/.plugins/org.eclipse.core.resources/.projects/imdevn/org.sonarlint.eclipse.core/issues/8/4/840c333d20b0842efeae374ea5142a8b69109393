@@ -1,0 +1,23 @@
+
+zsquid:S1854¾"@Remove this useless assignment to local variable "modelAndView".(ƒ‰¸£ûÿÿÿÿ8°Éêéš-HƒFRMAJORZ
+CODE_SMELL
+squid:S1488c"dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(ìñ„›üÿÿÿÿ8°Éêéš-H„FRMINORZ
+CODE_SMELL
+nsquid:S10751"ARefactor your code to get this URI from a customizable parameter.(µ½İßH…FRMINORZ
+CODE_SMELL
+•squid:S1488Û"`Immediately return this expression instead of assigning it to the temporary variable "entidade".(ŒÛ—¯8°Éêéš-H†FRMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(®¶Ñüÿÿÿÿÿ8ĞĞ‹ª›-H‡FRMAJORZ
+CODE_SMELL
+‹squid:S001165"QRename this field "MODULO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙƒêÂüÿÿÿÿ8°Éêéš-HˆFRMINORZ
+CODE_SMELL
+squid:S1488X"dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(×’°ùÿÿÿÿ8°Éêéš-H‰FRMINORZ
+CODE_SMELL
+’squid:S1488Ï"dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(á‡ıHŠFRMINORZ
+CODE_SMELL
+zsquid:S10683"ARemove this unused "URL_BUSCAR_PROPRIEDADE_CODIGO" private field.(Åà‰ùÿÿÿÿ8œÆå´›-H‹FRMAJORZ
+CODE_SMELL
+Ì%squid:RedundantThrowsDeclarationChecky"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(Æ…ÜÈøÿÿÿÿ8°Éêéš-HŒFRMINORZ
+CODE_SMELL
+ksquid:S1481¾"1Remove this unused "modelAndView" local variable.(ƒ‰¸£ûÿÿÿÿ8°Éêéš-HFRMINORZ
+CODE_SMELL

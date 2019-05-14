@@ -1,0 +1,16 @@
+
+™squid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8Äì“-H»8RMINORZ
+CODE_SMELL
+‘squid:S1488("]Immediately return this expression instead of assigning it to the temporary variable "model".(›œ²ò8İºÓ‰”-HÔ8RMINORZ
+CODE_SMELL
+”squid:UselessImportCheck
+"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ë8ŸˆÜü’-H¼8RMINORZ
+CODE_SMELL
+isquid:UselessImportCheck")Remove this unused import 'model.Pessoa'.(©¯Ç8°â¨ı’-Hº8RMINORZ
+CODE_SMELL
+squid:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù»¥â8åĞ·‰”-HÂ8RMINORZ
+CODE_SMELL
+–squid:UselessImportCheck	"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ8Ó»“-H½8RMINORZ
+CODE_SMELL
+‘squid:S1488."]Immediately return this expression instead of assigning it to the temporary variable "model".(ÈË­8ÈéÌŠ”-HŠ9RMINORZ
+CODE_SMELL

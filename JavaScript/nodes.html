@@ -1,0 +1,42 @@
+<!--
+Adding and Removind Nodes
+
+Para adicionar um novo elemento para o HTML DOM, voce pode criar um elemento
+primeiro e anexar ao elemento existente.
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>nodes</title>
+</head>
+<body>
+<button onclick="addNode()">ADD</button>
+<button onclick="removeNode()">RM</button>
+
+<script type="text/javascript">
+	var i  = 0; 
+
+	function addNode(){	
+		var doc = document.body;
+		var element = document.createElement("p");
+		var nodeText = document.createTextNode("Novo texto "+i);
+		element.appendChild(nodeText);
+
+		var child = document.getElementsByTagName('script')[0];
+
+		doc.insertBefore(element,child)
+		console.log(doc);
+		i++;
+	}
+
+	function removeNode(){
+		var element = document.getElementsByTagName("p")[0];
+		var parent = element.parentNode;
+		parent.removeChild(element);
+
+	}
+</script>
+</body>
+</html>

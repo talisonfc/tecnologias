@@ -1,0 +1,16 @@
+.left, .right{
+	float: left;
+	width: 20%;
+}
+
+.main{
+	float: left;
+	width: 60%;
+}
+
+@media (max-width: 800px) {
+	.left, .right, .main{
+		width: 100%;
+		font-size: 2em;
+	}
+}

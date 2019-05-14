@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>EVENTS</title>
+</head>
+<body onload="console.log('inicializando')" >
+	<p onclick="changeText(this)">Click neste texto</p>
+	
+	<button id="btn">Data</button>
+	<p id="out"></p>
+
+	<input type="text" id="in" onchange="upperCase()">
+
+	<script type="text/javascript">
+		function changeText(id){
+			id.innerHTML = "ERROR";
+			id.style.color = 'red';
+		}
+
+		var btn = document.getElementById('btn');
+		/*
+		- Da mesma maneira que é possivel adicionar um evento a um elemento do DOM, também é possivel remover usando removeEventListener()
+		- Pode-se adicionar o mesmo evento com rotinas diferentes ao mesmo elemento
+		- Pode-se adicionar diferentes eventos ao mesmo elemento.
+		- Eventos podem ser adicionados a elementos ou objetos JS que suporte eventos.
+
+		*/
+
+		btn.addEventListener("click", function (){
+			document.getElementById('out').innerHTML = Date();
+		})
+
+		btn.addEventListener("click", function (){
+			document.getElementById('out').innerHTML += " - " + Date();
+		})
+
+		/*
+		btn.onclick = function (){
+			document.getElementById('out').innerHTML = Date();
+		}
+		*/
+
+		function check(){
+			console.log("Pagina carregado");
+		}
+
+		function upperCase(){
+			console.log('entrada')
+		}
+	</script>
+</body>
+</html>

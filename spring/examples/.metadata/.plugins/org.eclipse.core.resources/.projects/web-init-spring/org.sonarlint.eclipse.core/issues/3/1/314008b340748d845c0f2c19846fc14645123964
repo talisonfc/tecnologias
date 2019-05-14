@@ -1,0 +1,20 @@
+
+žsquid:UselessImportCheck
+"]Remove this unused import 'org.springframework.web.context.support.XmlWebApplicationContext'.(²¾ãÕ8ÊÑÕ±‚-Hú(RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ï¦Þ¶8´—×ƒ-Hû(RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8´—×ƒ-Hü(RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8´—×ƒ-Hý(RMAJORZ
+CODE_SMELL
+q
+squid:S1061"9Replace this use of System.out or System.err by a logger.(¨ô¢¨ýÿÿÿÿ8ÛÍ¡×ƒ-Hþ(RMAJORZ
+CODE_SMELL
+l
+squid:S1062"9Replace this use of System.out or System.err by a logger.(¢°°­8ÛÍ¡×ƒ-Hÿ(RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«ð²ç8´—×ƒ-H€)RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(»ž•ûÿÿÿÿ8´—×ƒ-H)RMAJORZ
+CODE_SMELL

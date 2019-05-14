@@ -1,0 +1,23 @@
+
+¸squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áÍ“Ö8öÏş…-H‡RCRITICALZ
+CODE_SMELL
+”squid:S3973¤"WUse curly braces or indentation to denote the code conditionally executed by this "if".(ÑÂÿıÿÿÿÿ8öÏş…-H‘RCRITICALZ
+CODE_SMELL
+”squid:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(İÓú¢üÿÿÿÿ8öÏş…-H‹RCRITICALZ
+CODE_SMELL
+”squid:S3973‹"WUse curly braces or indentation to denote the code conditionally executed by this "if".(Ô©©ûÿÿÿÿ8öÏş…-HRCRITICALZ
+CODE_SMELL
+”squid:S3973š"WUse curly braces or indentation to denote the code conditionally executed by this "if".(ñ„€¸ÿÿÿÿÿ8öÏş…-H‰RCRITICALZ
+CODE_SMELL
+‰squid:S3776q"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(ÜÑã8öÏş…-HRCRITICALZ
+CODE_SMELL
+squid:S3973Ÿ"WUse curly braces or indentation to denote the code conditionally executed by this "if".(æÅV8öÏş…-HˆRCRITICALZ
+CODE_SMELL
+“squid:S3973|"WUse curly braces or indentation to denote the code conditionally executed by this "if".(•Ü—ùÿÿÿÿ8öÏş…-HŒRCRITICALZ
+CODE_SMELL
+”squid:S3973•"WUse curly braces or indentation to denote the code conditionally executed by this "if".(œƒŞıÿÿÿÿ8öÏş…-HRCRITICALZ
+CODE_SMELL
+squid:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(’ÑúÏ8öÏş…-HRCRITICALZ
+CODE_SMELL
+”squid:S3973†"WUse curly braces or indentation to denote the code conditionally executed by this "if".(õÛü‘øÿÿÿÿ8öÏş…-HŠRCRITICALZ
+CODE_SMELL

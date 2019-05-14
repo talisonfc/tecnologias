@@ -1,0 +1,9 @@
+
+vsquid:CallToDeprecatedMethod&",Remove this use of "Date"; it is deprecated.(â€ÿÿÿÿÿ8‰éé…‡-HêRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³Øî‹8Æ—ñ†-HíRMAJORZ
+CODE_SMELL
+xsquid:UselessImportCheck"2Remove this unused import 'org.hibernate.Session'.(È¹›§ùÿÿÿÿ8Óƒûñ†-HëRMINORZ
+CODE_SMELL
+†squid:UselessImportCheck"ERemove this unused import 'com.escola.repository.EnderecoRepository'.(õàÆ®8‰éé…‡-HìRMINORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+ssquid:S1126"AReplace this if-then-else statement by a single return statement.(ö“î¼ûÿÿÿÿHºERMINORZ
+CODE_SMELL
+‡squid:S4144…"YUpdate this method so that its implementation is not identical to "getCodigo" on line 99.(Ÿ‘È©H»ERMAJORZ
+CODE_SMELL
+vsquid:S1206w"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑãH¼ERMINORZBUG
+gsquid:S1161w":Add the "@Override" annotation above this method signature(ÜÑãH½ERMAJORZ
+CODE_SMELL
+dsquid:S1135†"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH¾ERINFOZ
+CODE_SMELL

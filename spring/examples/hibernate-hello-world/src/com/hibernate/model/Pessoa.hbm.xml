@@ -1,0 +1,4 @@
+<class name="Pessoa" table="PESSOA">
+	<id name="id" column="ID"></id>
+	<nome name="nome" column="NOME"></nome>
+</class>

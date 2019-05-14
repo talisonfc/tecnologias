@@ -1,0 +1,17 @@
+
+­squid:S1319;"tThe type of the "enderecos" object should be an interface such as "List" rather than the implementation "ArrayList".(­Òƒ¥ùÿÿÿÿ8ıò„…-H¯RMINORZ
+CODE_SMELL
+“squid:S3973f"WUse curly braces or indentation to denote the code conditionally executed by this "if".(£Ä›‰ÿÿÿÿÿ8Ÿı¹…-H°RCRITICALZ
+CODE_SMELL
+“squid:S3973\"WUse curly braces or indentation to denote the code conditionally executed by this "if".(ÇÍ°°ùÿÿÿÿ8ıò„…-H®RCRITICALZ
+CODE_SMELL
+¸squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µ¸8´Ëµ…-H­RCRITICALZ
+CODE_SMELL
+‰squid:S3776L"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÜÑã8Ÿı¹…-H©RCRITICALZ
+CODE_SMELL
+squid:S3973W"WUse curly braces or indentation to denote the code conditionally executed by this "if".(İÉÜ“8Ÿı¹…-H±RCRITICALZ
+CODE_SMELL
+“squid:S3973a"WUse curly braces or indentation to denote the code conditionally executed by this "if".(œƒŞıÿÿÿÿ8Ÿı¹…-HªRCRITICALZ
+CODE_SMELL
+“squid:S3973k"WUse curly braces or indentation to denote the code conditionally executed by this "if".(Æª¯êúÿÿÿÿ8Ÿı¹…-H«RCRITICALZ
+CODE_SMELL

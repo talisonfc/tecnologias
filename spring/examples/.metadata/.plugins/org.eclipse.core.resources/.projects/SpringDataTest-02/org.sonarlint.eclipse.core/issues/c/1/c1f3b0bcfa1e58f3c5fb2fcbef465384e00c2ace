@@ -1,0 +1,5 @@
+
+vsquid:S2094"BRemove this empty class, write its code or make it an "interface".(Ущяї8пЫУе‘-HХ+RMINORZ
+CODE_SMELL
+—squid:UselessImportCheck"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(жлтТыяяяя8пЫУе‘-HЦ+RMINORZ
+CODE_SMELL

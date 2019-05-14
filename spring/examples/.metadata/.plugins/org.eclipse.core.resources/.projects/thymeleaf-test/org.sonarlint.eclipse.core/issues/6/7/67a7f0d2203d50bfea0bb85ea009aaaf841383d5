@@ -1,0 +1,24 @@
+
+œsquid:UselessImportCheck"VRemove this unused import 'org.springframework.web.servlet.resource.ResourceResolver'.(©˜¶ûÿÿÿÿ8¶ò Ş‘-HÎ$RMINORZ
+CODE_SMELL
+ƒsquid:UselessImportCheck"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8¶ò Ş‘-HĞ$RMINORZ
+CODE_SMELL
+‰squid:UselessImportCheck"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8×ğ¤Ş‘-Há$RMINORZ
+CODE_SMELL
+ˆsquid:UselessImportCheck"GRemove this unused import 'org.thymeleaf.spring4.SpringTemplateEngine'.(»Ù¹•8×ğ¤Ş‘-Hß$RMINORZ
+CODE_SMELL
+vsquid:S2094"BRemove this empty class, write its code or make it an "interface".(²Š¿¼8×ğ¤Ş‘-Hİ$RMINORZ
+CODE_SMELL
+—squid:UselessImportCheck	"QRemove this unused import 'org.springframework.context.annotation.Configuration'.(¬²Úäşÿÿÿÿ8×ğ¤Ş‘-HŞ$RMINORZ
+CODE_SMELL
+Œsquid:UselessImportCheck"KRemove this unused import 'org.springframework.context.ApplicationContext'.(»Ô»¿8×ğ¤Ş‘-Hâ$RMINORZ
+CODE_SMELL
+qsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¶ò Ş‘-HÏ$RMINORZ
+CODE_SMELL
+‚squid:UselessImportCheck
+"ARemove this unused import 'org.springframework.core.io.Resource'.(¹ÒÁ8¶ò Ş‘-HÒ$RMINORZ
+CODE_SMELL
+¡squid:UselessImportCheck"[Remove this unused import 'org.springframework.web.servlet.resource.ResourceResolverChain'.(÷Úí½ıÿÿÿÿ8¶ò Ş‘-HÑ$RMINORZ
+CODE_SMELL
+£squid:UselessImportCheck"bRemove this unused import 'org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver'.(ç¤œÅ8×ğ¤Ş‘-Hà$RMINORZ
+CODE_SMELL

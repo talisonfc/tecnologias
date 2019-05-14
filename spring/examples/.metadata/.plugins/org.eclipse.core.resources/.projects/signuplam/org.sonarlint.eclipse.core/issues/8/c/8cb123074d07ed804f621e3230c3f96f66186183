@@ -1,0 +1,36 @@
+
+}squid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(üÿÕÒøÿÿÿÿHÛARMAJORZ
+CODE_SMELL
+€squid:S1192s"PDefine a constant instead of duplicating this literal "redirect:/login" 3 times.(ØÆŠúHØARCRITICALZ
+CODE_SMELL
+–squid:S1488."dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(ç‘Ë€ÿÿÿÿÿHâARMINORZ
+CODE_SMELL
+}squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ñ¿ŠHçARMINORZ
+CODE_SMELL
+tsquid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(¼ñ¿ŠHèARCRITICALZVULNERABILITY
+}squid:CommentedOutCodeLinew"<This block of commented-out lines of code should be removed.(üÊ±¹üÿÿÿÿHÝARMAJORZ
+CODE_SMELL
+’squid:S1488†"dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(¼—­áHåARMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineu"<This block of commented-out lines of code should be removed.(å¨°ŒHÜARMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(òÜæ³ûÿÿÿÿHßARMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(Úä×’ùÿÿÿÿHàARMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.( ï€‘HÙARMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.( Èƒ“ûÿÿÿÿHáARMAJORZ
+CODE_SMELL
+|squid:S1192."GDefine a constant instead of duplicating this literal "/login" 3 times.(ç‘Ë€ÿÿÿÿÿH×ARCRITICALZ
+CODE_SMELL
+}squid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(—Õ’úÿÿÿÿHÚARMAJORZ
+CODE_SMELL
+\squid:S1905;"*Remove this unnecessary cast to "Usuario".(‹áèµüÿÿÿÿHæARMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLinez"<This block of commented-out lines of code should be removed.(ÅÚÓÛþÿÿÿÿHÞARMAJORZ
+CODE_SMELL
+–squid:S1488Z"dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(¬ì÷ÒÿÿÿÿÿHäARMINORZ
+CODE_SMELL
+‘squid:S1488T"dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(ÏžÅHãARMINORZ
+CODE_SMELL
